@@ -11,4 +11,4 @@ https://live-edge01.telecom.net.ar/live/btv/espnprem/espnprem.m3u8
 
 #EXTINF:-1 tvg-id="DSports" group-title="DEPORTES [AX-K]", DSports (Fútbol Sudamericano)
 #EXTVLCOPT:http-user-agent=AX-K_v2_Engine
-https://servidor-seguro.net/dsports/index.m3u8
+https://servidor-seguro.net/dsports/index.m3u
