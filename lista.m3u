@@ -1,4 +1,5 @@
 # --- PACK FÚTBOL ARGENTINO ---
+#EXTM3U
 #EXTINF:-1 tvg-id="TNT_Sports_Premium" group-title="FUTBOL [AX-K 4K]", TNT Sports Premium (4K)
 #EXTVLCOPT:http-user-agent=AX-K_v2_Engine
 #EXTVLCOPT:http-referrer=https://killer-station.com/
@@ -12,4 +13,3 @@ https://live-edge01.telecom.net.ar/live/btv/espnprem/espnprem.m3u8
 #EXTINF:-1 tvg-id="DSports" group-title="DEPORTES [AX-K]", DSports (Fútbol Sudamericano)
 #EXTVLCOPT:http-user-agent=AX-K_v2_Engine
 https://servidor-seguro.net/dsports/index.m3u
-
